@@ -1,0 +1,41 @@
+_repo: The-Ocean-Wireless-Boys-on-War-Swept-Seas_45841
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Scott, A. O. (Arthur O.)
+    alias: Scott, Arthur O.
+    gutenberg_agent_id: '25205'
+    url: http://www.gutenberg.org/2009/agents/25205
+covers:
+- cover_type: archival
+  image_path: 45841-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - Lawton, Captain Wilbur
+    - West, Marvin
+    - Payson, Howard
+    - Dexter J. Forrester
+    - Lawton, Wilbur
+    - Deering, Fremont B.
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_issued: '2014-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Telegraph, Wireless -- Juvenile fiction'
+title: The Ocean Wireless Boys on War Swept Seas
+url: http://www.gutenberg.org/ebooks/45841
